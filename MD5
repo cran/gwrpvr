@@ -1,0 +1,12 @@
+79dcd5ce0bb5bf2e6e5a3741cebad389 *DESCRIPTION
+db3afe9f6b967fc598e112821b3e20e9 *NAMESPACE
+1c526e7b29393eee1dc6ddc22a88eb49 *R/gwrpv.R
+47315e6bf7bac93d9a8c4035537885a4 *data/regresults.csv
+f74a428e27e43bc6cb56334b38cc8eec *man/calc_pvalue.Rd
+9edda39b73ba645d9ace6b040c46b7cf *man/close_to_normal.Rd
+715c2dedba50df8367437ffea1f78572 *man/gwrpv.Rd
+92d3f2527d3b662c2d746268a545d1cf *man/gwrpv_batch.Rd
+d0ea3a5b693f22989f2336663adf38c4 *man/gwrpvr.Rd
+fa7ddc7618e776ed1e4a991d35227b85 *man/highlow.Rd
+135e6e42354695b899b4951d955decde *man/loop_calc_pvalue.Rd
+8d014440829724cdb49796a131cefece *man/regresults.Rd
